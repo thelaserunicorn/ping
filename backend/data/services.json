@@ -7,513 +7,513 @@
     "createdAt": "2026-02-23T06:30:44.206Z",
     "history": [
       {
-        "status": "down",
-        "latency": 1381807,
-        "timestamp": "2026-02-23T08:34:03.753Z",
-        "error": "getaddrinfo EAI_AGAIN github.com"
+        "status": "healthy",
+        "latency": 200,
+        "timestamp": "2026-02-23T09:32:28.816Z"
       },
       {
         "status": "healthy",
-        "latency": 211,
-        "timestamp": "2026-02-23T08:34:08.961Z"
+        "latency": 204,
+        "timestamp": "2026-02-23T09:32:38.843Z"
       },
       {
         "status": "healthy",
-        "latency": 222,
-        "timestamp": "2026-02-23T08:34:18.985Z"
+        "latency": 207,
+        "timestamp": "2026-02-23T09:32:48.853Z"
       },
       {
         "status": "healthy",
-        "latency": 202,
-        "timestamp": "2026-02-23T08:34:28.979Z"
+        "latency": 204,
+        "timestamp": "2026-02-23T09:32:58.873Z"
       },
       {
         "status": "healthy",
-        "latency": 223,
-        "timestamp": "2026-02-23T08:34:39.006Z"
+        "latency": 201,
+        "timestamp": "2026-02-23T09:33:08.892Z"
       },
       {
         "status": "healthy",
-        "latency": 385,
-        "timestamp": "2026-02-23T08:34:49.182Z"
+        "latency": 224,
+        "timestamp": "2026-02-23T09:33:18.918Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 204,
+        "timestamp": "2026-02-23T09:33:28.920Z"
       },
       {
         "status": "healthy",
         "latency": 198,
-        "timestamp": "2026-02-23T08:34:58.996Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 207,
-        "timestamp": "2026-02-23T08:35:09.015Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 206,
-        "timestamp": "2026-02-23T08:35:19.028Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 204,
-        "timestamp": "2026-02-23T08:35:29.040Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 209,
-        "timestamp": "2026-02-23T08:35:39.054Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 327,
-        "timestamp": "2026-02-23T08:35:49.178Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 208,
-        "timestamp": "2026-02-23T08:35:59.078Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 231,
-        "timestamp": "2026-02-23T08:36:09.108Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 489,
-        "timestamp": "2026-02-23T08:36:19.369Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 199,
-        "timestamp": "2026-02-23T08:36:29.087Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 202,
-        "timestamp": "2026-02-23T08:36:39.099Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 199,
-        "timestamp": "2026-02-23T08:36:49.103Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 193,
-        "timestamp": "2026-02-23T08:36:59.103Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 251,
-        "timestamp": "2026-02-23T08:37:09.163Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 194,
-        "timestamp": "2026-02-23T08:37:19.112Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 216,
-        "timestamp": "2026-02-23T08:37:29.137Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 586,
-        "timestamp": "2026-02-23T08:37:39.507Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 200,
-        "timestamp": "2026-02-23T08:37:49.130Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 215,
-        "timestamp": "2026-02-23T08:37:59.153Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 201,
-        "timestamp": "2026-02-23T08:38:09.146Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 218,
-        "timestamp": "2026-02-23T08:38:19.173Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 207,
-        "timestamp": "2026-02-23T08:38:29.169Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 223,
-        "timestamp": "2026-02-23T08:38:39.192Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 214,
-        "timestamp": "2026-02-23T08:38:49.191Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 214,
-        "timestamp": "2026-02-23T08:38:59.199Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 207,
-        "timestamp": "2026-02-23T08:39:09.200Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 277,
-        "timestamp": "2026-02-23T08:39:19.278Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 443,
-        "timestamp": "2026-02-23T08:39:29.453Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 210,
-        "timestamp": "2026-02-23T08:39:39.226Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 450,
-        "timestamp": "2026-02-23T08:39:47.336Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 221,
-        "timestamp": "2026-02-23T08:39:57.187Z"
+        "timestamp": "2026-02-23T09:33:38.924Z"
       },
       {
         "status": "healthy",
         "latency": 203,
-        "timestamp": "2026-02-23T08:40:07.185Z"
+        "timestamp": "2026-02-23T09:33:48.935Z"
       },
       {
         "status": "healthy",
-        "latency": 204,
-        "timestamp": "2026-02-23T08:40:17.185Z"
+        "latency": 177,
+        "timestamp": "2026-02-23T09:33:58.922Z"
       },
       {
         "status": "healthy",
-        "latency": 201,
-        "timestamp": "2026-02-23T08:40:27.207Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 199,
-        "timestamp": "2026-02-23T08:40:37.229Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 208,
-        "timestamp": "2026-02-23T08:40:47.238Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 208,
-        "timestamp": "2026-02-23T08:40:57.262Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 205,
-        "timestamp": "2026-02-23T08:41:07.280Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 215,
-        "timestamp": "2026-02-23T08:41:17.295Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 202,
-        "timestamp": "2026-02-23T08:41:27.280Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 207,
-        "timestamp": "2026-02-23T08:41:37.285Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 215,
-        "timestamp": "2026-02-23T08:41:47.294Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 204,
-        "timestamp": "2026-02-23T08:41:57.284Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 202,
-        "timestamp": "2026-02-23T08:42:07.306Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 210,
-        "timestamp": "2026-02-23T08:42:17.315Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 200,
-        "timestamp": "2026-02-23T08:42:27.329Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 207,
-        "timestamp": "2026-02-23T08:42:37.359Z"
+        "latency": 188,
+        "timestamp": "2026-02-23T09:34:08.957Z"
       },
       {
         "status": "healthy",
         "latency": 212,
-        "timestamp": "2026-02-23T08:42:47.365Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 212,
-        "timestamp": "2026-02-23T08:42:57.389Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 206,
-        "timestamp": "2026-02-23T08:43:07.405Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 190,
-        "timestamp": "2026-02-23T08:43:17.390Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 207,
-        "timestamp": "2026-02-23T08:43:27.430Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 214,
-        "timestamp": "2026-02-23T08:43:37.461Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 206,
-        "timestamp": "2026-02-23T08:43:47.453Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 185,
-        "timestamp": "2026-02-23T08:43:57.440Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 204,
-        "timestamp": "2026-02-23T08:44:07.470Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 196,
-        "timestamp": "2026-02-23T08:44:17.462Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 200,
-        "timestamp": "2026-02-23T08:44:27.475Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 201,
-        "timestamp": "2026-02-23T08:44:37.483Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 207,
-        "timestamp": "2026-02-23T08:44:47.490Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 202,
-        "timestamp": "2026-02-23T08:44:57.509Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 213,
-        "timestamp": "2026-02-23T08:45:07.531Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 179,
-        "timestamp": "2026-02-23T08:45:17.497Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 200,
-        "timestamp": "2026-02-23T08:45:27.542Z"
+        "timestamp": "2026-02-23T09:34:18.989Z"
       },
       {
         "status": "healthy",
         "latency": 195,
-        "timestamp": "2026-02-23T08:45:37.561Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 211,
-        "timestamp": "2026-02-23T08:45:47.578Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 210,
-        "timestamp": "2026-02-23T08:45:57.600Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 208,
-        "timestamp": "2026-02-23T08:46:07.609Z"
+        "timestamp": "2026-02-23T09:34:28.980Z"
       },
       {
         "status": "healthy",
         "latency": 197,
-        "timestamp": "2026-02-23T08:46:17.600Z"
+        "timestamp": "2026-02-23T09:34:38.988Z"
       },
       {
-        "status": "down",
-        "latency": 5025,
-        "timestamp": "2026-02-23T08:46:32.451Z",
-        "error": "getaddrinfo EAI_AGAIN github.com"
+        "status": "healthy",
+        "latency": 194,
+        "timestamp": "2026-02-23T09:34:48.992Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 199,
+        "timestamp": "2026-02-23T09:34:59.020Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 205,
+        "timestamp": "2026-02-23T09:35:09.050Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 214,
+        "timestamp": "2026-02-23T09:35:19.066Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 209,
+        "timestamp": "2026-02-23T09:35:29.084Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 212,
+        "timestamp": "2026-02-23T09:35:39.110Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 208,
+        "timestamp": "2026-02-23T09:35:49.114Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 275,
+        "timestamp": "2026-02-23T09:35:59.204Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 201,
+        "timestamp": "2026-02-23T09:36:09.149Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 197,
+        "timestamp": "2026-02-23T09:36:19.154Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 212,
+        "timestamp": "2026-02-23T09:36:29.192Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 217,
+        "timestamp": "2026-02-23T09:36:39.222Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 214,
+        "timestamp": "2026-02-23T09:36:49.227Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 199,
+        "timestamp": "2026-02-23T09:36:59.235Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 198,
+        "timestamp": "2026-02-23T09:37:09.245Z"
       },
       {
         "status": "healthy",
         "latency": 213,
-        "timestamp": "2026-02-23T08:46:37.649Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 198,
-        "timestamp": "2026-02-23T08:46:47.634Z"
+        "timestamp": "2026-02-23T09:37:19.268Z"
       },
       {
         "status": "healthy",
         "latency": 206,
-        "timestamp": "2026-02-23T08:46:57.665Z"
+        "timestamp": "2026-02-23T09:37:29.275Z"
       },
       {
         "status": "healthy",
-        "latency": 205,
-        "timestamp": "2026-02-23T08:47:07.677Z"
+        "latency": 201,
+        "timestamp": "2026-02-23T09:37:39.293Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 197,
+        "timestamp": "2026-02-23T09:37:49.296Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 204,
+        "timestamp": "2026-02-23T09:37:59.327Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 190,
+        "timestamp": "2026-02-23T09:38:09.336Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 185,
+        "timestamp": "2026-02-23T09:38:19.340Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 195,
+        "timestamp": "2026-02-23T09:38:29.369Z"
       },
       {
         "status": "healthy",
         "latency": 202,
-        "timestamp": "2026-02-23T08:47:17.677Z"
+        "timestamp": "2026-02-23T09:38:39.401Z"
       },
       {
         "status": "healthy",
-        "latency": 205,
-        "timestamp": "2026-02-23T08:47:27.702Z"
+        "latency": 204,
+        "timestamp": "2026-02-23T09:38:49.411Z"
       },
       {
         "status": "healthy",
-        "latency": 199,
-        "timestamp": "2026-02-23T08:47:37.701Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 199,
-        "timestamp": "2026-02-23T08:47:47.702Z"
+        "latency": 207,
+        "timestamp": "2026-02-23T09:38:59.436Z"
       },
       {
         "status": "down",
-        "latency": 1414334,
-        "timestamp": "2026-02-23T09:11:31.857Z",
+        "latency": 5021,
+        "timestamp": "2026-02-23T09:39:14.273Z",
+        "error": "Request timeout"
+      },
+      {
+        "status": "down",
+        "latency": 5019,
+        "timestamp": "2026-02-23T09:39:24.281Z",
+        "error": "Request timeout"
+      },
+      {
+        "status": "down",
+        "latency": 5004,
+        "timestamp": "2026-02-23T09:39:34.283Z",
         "error": "Request timeout"
       },
       {
         "status": "healthy",
-        "latency": 234,
-        "timestamp": "2026-02-23T09:11:37.093Z"
+        "latency": 219,
+        "timestamp": "2026-02-23T09:39:39.523Z"
       },
       {
         "status": "healthy",
-        "latency": 205,
-        "timestamp": "2026-02-23T09:11:47.065Z"
+        "latency": 221,
+        "timestamp": "2026-02-23T09:39:49.533Z"
+      },
+      {
+        "status": "slow",
+        "latency": 1238,
+        "timestamp": "2026-02-23T09:40:00.573Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 227,
+        "timestamp": "2026-02-23T09:40:09.580Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 201,
+        "timestamp": "2026-02-23T09:40:19.562Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 208,
+        "timestamp": "2026-02-23T09:40:29.592Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 191,
+        "timestamp": "2026-02-23T09:40:39.600Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 212,
+        "timestamp": "2026-02-23T09:40:49.630Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 195,
+        "timestamp": "2026-02-23T09:40:59.614Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 195,
+        "timestamp": "2026-02-23T09:41:09.623Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 208,
+        "timestamp": "2026-02-23T09:41:19.637Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 193,
+        "timestamp": "2026-02-23T09:41:29.647Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 194,
+        "timestamp": "2026-02-23T09:41:39.672Z"
       },
       {
         "status": "healthy",
         "latency": 203,
-        "timestamp": "2026-02-23T09:11:57.066Z"
+        "timestamp": "2026-02-23T09:41:49.690Z"
       },
       {
         "status": "healthy",
-        "latency": 202,
-        "timestamp": "2026-02-23T09:12:07.067Z"
+        "latency": 224,
+        "timestamp": "2026-02-23T09:41:59.734Z"
       },
       {
         "status": "healthy",
-        "latency": 206,
-        "timestamp": "2026-02-23T09:12:17.071Z"
+        "latency": 461,
+        "timestamp": "2026-02-23T09:42:09.972Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 200,
+        "timestamp": "2026-02-23T09:42:19.720Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 195,
+        "timestamp": "2026-02-23T09:42:29.740Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 204,
+        "timestamp": "2026-02-23T09:42:39.771Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 193,
+        "timestamp": "2026-02-23T09:42:49.770Z"
       },
       {
         "status": "healthy",
         "latency": 196,
-        "timestamp": "2026-02-23T09:12:27.085Z"
+        "timestamp": "2026-02-23T09:42:59.795Z"
       },
       {
         "status": "healthy",
         "latency": 204,
-        "timestamp": "2026-02-23T09:12:37.107Z"
+        "timestamp": "2026-02-23T09:43:09.825Z"
       },
       {
         "status": "healthy",
         "latency": 206,
-        "timestamp": "2026-02-23T09:12:47.110Z"
+        "timestamp": "2026-02-23T09:43:19.838Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 242,
+        "timestamp": "2026-02-23T09:43:29.902Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 201,
+        "timestamp": "2026-02-23T09:43:39.880Z"
+      },
+      {
+        "status": "slow",
+        "latency": 3281,
+        "timestamp": "2026-02-23T09:43:52.971Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 196,
+        "timestamp": "2026-02-23T09:43:59.894Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 208,
+        "timestamp": "2026-02-23T09:44:09.930Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 197,
+        "timestamp": "2026-02-23T09:44:19.931Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 222,
+        "timestamp": "2026-02-23T09:44:29.974Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 200,
+        "timestamp": "2026-02-23T09:44:39.964Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 208,
+        "timestamp": "2026-02-23T09:44:49.983Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 200,
+        "timestamp": "2026-02-23T09:44:59.987Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 197,
+        "timestamp": "2026-02-23T09:45:10.005Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 228,
+        "timestamp": "2026-02-23T09:45:20.048Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 202,
+        "timestamp": "2026-02-23T09:45:30.046Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 218,
+        "timestamp": "2026-02-23T09:45:40.086Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 201,
+        "timestamp": "2026-02-23T09:45:50.079Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 205,
+        "timestamp": "2026-02-23T09:46:00.093Z"
       },
       {
         "status": "healthy",
         "latency": 199,
-        "timestamp": "2026-02-23T09:12:57.127Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 187,
-        "timestamp": "2026-02-23T09:13:07.136Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 229,
-        "timestamp": "2026-02-23T09:13:17.181Z"
+        "timestamp": "2026-02-23T09:46:10.107Z"
       },
       {
         "status": "healthy",
         "latency": 204,
-        "timestamp": "2026-02-23T09:13:27.179Z"
+        "timestamp": "2026-02-23T09:46:20.125Z"
       },
       {
         "status": "healthy",
-        "latency": 206,
-        "timestamp": "2026-02-23T09:13:37.198Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 204,
-        "timestamp": "2026-02-23T09:13:47.196Z"
+        "latency": 203,
+        "timestamp": "2026-02-23T09:46:30.147Z"
       },
       {
         "status": "healthy",
         "latency": 198,
-        "timestamp": "2026-02-23T09:13:57.215Z"
+        "timestamp": "2026-02-23T09:46:40.165Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 214,
+        "timestamp": "2026-02-23T09:46:50.184Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 305,
+        "timestamp": "2026-02-23T09:47:00.298Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 201,
+        "timestamp": "2026-02-23T09:47:10.216Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 196,
+        "timestamp": "2026-02-23T09:47:20.225Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 200,
+        "timestamp": "2026-02-23T09:47:30.242Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 209,
+        "timestamp": "2026-02-23T09:47:40.251Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 200,
+        "timestamp": "2026-02-23T09:47:50.253Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 224,
+        "timestamp": "2026-02-23T09:48:00.300Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 206,
+        "timestamp": "2026-02-23T09:48:10.306Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 475,
+        "timestamp": "2026-02-23T09:48:20.587Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 197,
+        "timestamp": "2026-02-23T09:48:30.331Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 226,
+        "timestamp": "2026-02-23T09:48:40.362Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 202,
+        "timestamp": "2026-02-23T09:48:50.342Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 236,
+        "timestamp": "2026-02-23T09:49:00.384Z"
       }
     ],
     "lastCheck": {
       "status": "healthy",
-      "latency": 198,
-      "timestamp": "2026-02-23T09:13:57.215Z"
+      "latency": 236,
+      "timestamp": "2026-02-23T09:49:00.384Z"
     }
   },
   {
@@ -525,455 +525,511 @@
     "history": [
       {
         "status": "healthy",
-        "latency": 568,
-        "timestamp": "2026-02-23T08:35:49.713Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 302,
-        "timestamp": "2026-02-23T08:35:59.454Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T08:36:09.460Z"
+        "latency": 291,
+        "timestamp": "2026-02-23T09:32:28.914Z"
       },
       {
         "status": "healthy",
         "latency": 318,
-        "timestamp": "2026-02-23T08:36:19.471Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 309,
-        "timestamp": "2026-02-23T08:36:29.461Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 296,
-        "timestamp": "2026-02-23T08:36:39.450Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T08:36:49.461Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 295,
-        "timestamp": "2026-02-23T08:36:59.450Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 323,
-        "timestamp": "2026-02-23T08:37:09.479Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 297,
-        "timestamp": "2026-02-23T08:37:19.453Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 334,
-        "timestamp": "2026-02-23T08:37:29.491Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 598,
-        "timestamp": "2026-02-23T08:37:39.755Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 296,
-        "timestamp": "2026-02-23T08:37:49.453Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 299,
-        "timestamp": "2026-02-23T08:37:59.457Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 301,
-        "timestamp": "2026-02-23T08:38:09.459Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 313,
-        "timestamp": "2026-02-23T08:38:19.471Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T08:38:29.465Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 346,
-        "timestamp": "2026-02-23T08:38:39.505Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 311,
-        "timestamp": "2026-02-23T08:38:49.470Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 300,
-        "timestamp": "2026-02-23T08:38:59.459Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 289,
-        "timestamp": "2026-02-23T08:39:09.448Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 341,
-        "timestamp": "2026-02-23T08:39:19.500Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 498,
-        "timestamp": "2026-02-23T08:39:29.658Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 305,
-        "timestamp": "2026-02-23T08:39:39.468Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 501,
-        "timestamp": "2026-02-23T08:39:47.461Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 317,
-        "timestamp": "2026-02-23T08:39:57.295Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T08:40:07.299Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 324,
-        "timestamp": "2026-02-23T08:40:17.315Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 311,
-        "timestamp": "2026-02-23T08:40:27.323Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 298,
-        "timestamp": "2026-02-23T08:40:37.335Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 293,
-        "timestamp": "2026-02-23T08:40:47.334Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 306,
-        "timestamp": "2026-02-23T08:40:57.368Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 298,
-        "timestamp": "2026-02-23T08:41:07.381Z"
+        "timestamp": "2026-02-23T09:32:38.965Z"
       },
       {
         "status": "healthy",
         "latency": 304,
-        "timestamp": "2026-02-23T08:41:17.391Z"
+        "timestamp": "2026-02-23T09:32:48.954Z"
       },
       {
         "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T08:41:27.394Z"
+        "latency": 322,
+        "timestamp": "2026-02-23T09:32:58.995Z"
       },
       {
         "status": "healthy",
-        "latency": 313,
-        "timestamp": "2026-02-23T08:41:37.400Z"
+        "latency": 305,
+        "timestamp": "2026-02-23T09:33:09.003Z"
       },
       {
         "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T08:41:47.397Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 294,
-        "timestamp": "2026-02-23T08:41:57.384Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T08:42:07.418Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 314,
-        "timestamp": "2026-02-23T08:42:17.427Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 291,
-        "timestamp": "2026-02-23T08:42:27.429Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 302,
-        "timestamp": "2026-02-23T08:42:37.462Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T08:42:47.468Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 309,
-        "timestamp": "2026-02-23T08:42:57.496Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 300,
-        "timestamp": "2026-02-23T08:43:07.508Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 396,
-        "timestamp": "2026-02-23T08:43:17.603Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 320,
-        "timestamp": "2026-02-23T08:43:27.550Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 308,
-        "timestamp": "2026-02-23T08:43:37.566Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 298,
-        "timestamp": "2026-02-23T08:43:47.556Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 308,
-        "timestamp": "2026-02-23T08:43:57.570Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 300,
-        "timestamp": "2026-02-23T08:44:07.572Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 291,
-        "timestamp": "2026-02-23T08:44:17.563Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 361,
-        "timestamp": "2026-02-23T08:44:27.641Z"
+        "latency": 297,
+        "timestamp": "2026-02-23T09:33:18.997Z"
       },
       {
         "status": "healthy",
         "latency": 292,
-        "timestamp": "2026-02-23T08:44:37.580Z"
+        "timestamp": "2026-02-23T09:33:29.014Z"
       },
       {
         "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T08:44:47.601Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 303,
-        "timestamp": "2026-02-23T08:44:57.616Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 294,
-        "timestamp": "2026-02-23T08:45:07.624Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 299,
-        "timestamp": "2026-02-23T08:45:17.626Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 299,
-        "timestamp": "2026-02-23T08:45:27.647Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 509,
-        "timestamp": "2026-02-23T08:45:37.881Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 293,
-        "timestamp": "2026-02-23T08:45:47.667Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 303,
-        "timestamp": "2026-02-23T08:45:57.702Z"
+        "latency": 289,
+        "timestamp": "2026-02-23T09:33:39.019Z"
       },
       {
         "status": "healthy",
         "latency": 304,
-        "timestamp": "2026-02-23T08:46:07.714Z"
+        "timestamp": "2026-02-23T09:33:49.043Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 297,
+        "timestamp": "2026-02-23T09:33:59.046Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 280,
+        "timestamp": "2026-02-23T09:34:09.051Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 295,
+        "timestamp": "2026-02-23T09:34:19.078Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 287,
+        "timestamp": "2026-02-23T09:34:29.077Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 293,
+        "timestamp": "2026-02-23T09:34:39.093Z"
       },
       {
         "status": "healthy",
         "latency": 301,
-        "timestamp": "2026-02-23T08:46:17.710Z"
+        "timestamp": "2026-02-23T09:34:49.104Z"
       },
       {
         "status": "healthy",
-        "latency": 411,
-        "timestamp": "2026-02-23T08:46:27.845Z"
+        "latency": 289,
+        "timestamp": "2026-02-23T09:34:59.117Z"
       },
       {
         "status": "healthy",
-        "latency": 310,
-        "timestamp": "2026-02-23T08:46:37.749Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 298,
-        "timestamp": "2026-02-23T08:46:47.743Z"
+        "latency": 301,
+        "timestamp": "2026-02-23T09:35:09.152Z"
       },
       {
         "status": "healthy",
         "latency": 311,
-        "timestamp": "2026-02-23T08:46:57.777Z"
+        "timestamp": "2026-02-23T09:35:19.173Z"
       },
       {
         "status": "healthy",
-        "latency": 297,
-        "timestamp": "2026-02-23T08:47:07.776Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 294,
-        "timestamp": "2026-02-23T08:47:17.777Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 301,
-        "timestamp": "2026-02-23T08:47:27.804Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 293,
-        "timestamp": "2026-02-23T08:47:37.801Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 295,
-        "timestamp": "2026-02-23T08:47:47.805Z"
-      },
-      {
-        "status": "down",
-        "latency": 1414332,
-        "timestamp": "2026-02-23T09:11:31.859Z",
-        "error": "Request timeout"
-      },
-      {
-        "status": "healthy",
-        "latency": 316,
-        "timestamp": "2026-02-23T09:11:37.190Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T09:11:47.181Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 293,
-        "timestamp": "2026-02-23T09:11:57.169Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 295,
-        "timestamp": "2026-02-23T09:12:07.170Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 309,
-        "timestamp": "2026-02-23T09:12:17.184Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 298,
-        "timestamp": "2026-02-23T09:12:27.190Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 302,
-        "timestamp": "2026-02-23T09:12:37.215Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 300,
-        "timestamp": "2026-02-23T09:12:47.213Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 297,
-        "timestamp": "2026-02-23T09:12:57.231Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 291,
-        "timestamp": "2026-02-23T09:13:07.246Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 303,
-        "timestamp": "2026-02-23T09:13:17.262Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 310,
-        "timestamp": "2026-02-23T09:13:27.291Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 306,
-        "timestamp": "2026-02-23T09:13:37.309Z"
-      },
-      {
-        "status": "healthy",
-        "latency": 307,
-        "timestamp": "2026-02-23T09:13:47.308Z"
+        "latency": 318,
+        "timestamp": "2026-02-23T09:35:29.201Z"
       },
       {
         "status": "healthy",
         "latency": 305,
-        "timestamp": "2026-02-23T09:13:57.328Z"
+        "timestamp": "2026-02-23T09:35:39.212Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 288,
+        "timestamp": "2026-02-23T09:35:49.200Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 352,
+        "timestamp": "2026-02-23T09:35:59.288Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 291,
+        "timestamp": "2026-02-23T09:36:09.245Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 294,
+        "timestamp": "2026-02-23T09:36:19.261Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 305,
+        "timestamp": "2026-02-23T09:36:29.293Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 301,
+        "timestamp": "2026-02-23T09:36:39.317Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 305,
+        "timestamp": "2026-02-23T09:36:49.330Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 304,
+        "timestamp": "2026-02-23T09:36:59.345Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 298,
+        "timestamp": "2026-02-23T09:37:09.353Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 302,
+        "timestamp": "2026-02-23T09:37:19.364Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 305,
+        "timestamp": "2026-02-23T09:37:29.381Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 292,
+        "timestamp": "2026-02-23T09:37:39.390Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 293,
+        "timestamp": "2026-02-23T09:37:49.399Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 290,
+        "timestamp": "2026-02-23T09:37:59.417Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 292,
+        "timestamp": "2026-02-23T09:38:09.442Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 292,
+        "timestamp": "2026-02-23T09:38:19.451Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 322,
+        "timestamp": "2026-02-23T09:38:29.502Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 305,
+        "timestamp": "2026-02-23T09:38:39.511Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 314,
+        "timestamp": "2026-02-23T09:38:49.529Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 299,
+        "timestamp": "2026-02-23T09:38:59.534Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 413,
+        "timestamp": "2026-02-23T09:39:09.671Z"
+      },
+      {
+        "status": "down",
+        "latency": 5016,
+        "timestamp": "2026-02-23T09:39:24.283Z",
+        "error": "Request timeout"
+      },
+      {
+        "status": "healthy",
+        "latency": 354,
+        "timestamp": "2026-02-23T09:39:29.638Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 310,
+        "timestamp": "2026-02-23T09:39:39.624Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 309,
+        "timestamp": "2026-02-23T09:39:49.631Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 788,
+        "timestamp": "2026-02-23T09:40:00.129Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 312,
+        "timestamp": "2026-02-23T09:40:09.673Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 299,
+        "timestamp": "2026-02-23T09:40:19.664Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 297,
+        "timestamp": "2026-02-23T09:40:29.686Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 306,
+        "timestamp": "2026-02-23T09:40:39.724Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 297,
+        "timestamp": "2026-02-23T09:40:49.721Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 286,
+        "timestamp": "2026-02-23T09:40:59.709Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 305,
+        "timestamp": "2026-02-23T09:41:09.738Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 293,
+        "timestamp": "2026-02-23T09:41:19.729Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 299,
+        "timestamp": "2026-02-23T09:41:29.760Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 289,
+        "timestamp": "2026-02-23T09:41:39.773Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 294,
+        "timestamp": "2026-02-23T09:41:49.787Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 329,
+        "timestamp": "2026-02-23T09:41:59.845Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 378,
+        "timestamp": "2026-02-23T09:42:09.897Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 299,
+        "timestamp": "2026-02-23T09:42:19.827Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 299,
+        "timestamp": "2026-02-23T09:42:29.850Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 299,
+        "timestamp": "2026-02-23T09:42:39.874Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 299,
+        "timestamp": "2026-02-23T09:42:49.881Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 303,
+        "timestamp": "2026-02-23T09:42:59.906Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 308,
+        "timestamp": "2026-02-23T09:43:09.935Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 327,
+        "timestamp": "2026-02-23T09:43:19.966Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 320,
+        "timestamp": "2026-02-23T09:43:29.995Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 317,
+        "timestamp": "2026-02-23T09:43:40.002Z"
+      },
+      {
+        "status": "down",
+        "latency": 277,
+        "timestamp": "2026-02-23T09:43:49.974Z",
+        "error": ""
+      },
+      {
+        "status": "healthy",
+        "latency": 315,
+        "timestamp": "2026-02-23T09:44:00.020Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 329,
+        "timestamp": "2026-02-23T09:44:10.065Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 307,
+        "timestamp": "2026-02-23T09:44:20.047Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 309,
+        "timestamp": "2026-02-23T09:44:30.066Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 311,
+        "timestamp": "2026-02-23T09:44:40.081Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 303,
+        "timestamp": "2026-02-23T09:44:50.084Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 304,
+        "timestamp": "2026-02-23T09:45:00.097Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 314,
+        "timestamp": "2026-02-23T09:45:10.128Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 329,
+        "timestamp": "2026-02-23T09:45:20.155Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 298,
+        "timestamp": "2026-02-23T09:45:30.148Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 319,
+        "timestamp": "2026-02-23T09:45:40.194Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 307,
+        "timestamp": "2026-02-23T09:45:50.192Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 296,
+        "timestamp": "2026-02-23T09:46:00.191Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 293,
+        "timestamp": "2026-02-23T09:46:10.207Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 312,
+        "timestamp": "2026-02-23T09:46:20.238Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 310,
+        "timestamp": "2026-02-23T09:46:30.260Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 293,
+        "timestamp": "2026-02-23T09:46:40.264Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 293,
+        "timestamp": "2026-02-23T09:46:50.272Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 431,
+        "timestamp": "2026-02-23T09:47:00.431Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 299,
+        "timestamp": "2026-02-23T09:47:10.321Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 303,
+        "timestamp": "2026-02-23T09:47:20.336Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 314,
+        "timestamp": "2026-02-23T09:47:30.364Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 301,
+        "timestamp": "2026-02-23T09:47:40.351Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 295,
+        "timestamp": "2026-02-23T09:47:50.355Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 312,
+        "timestamp": "2026-02-23T09:48:00.394Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 311,
+        "timestamp": "2026-02-23T09:48:10.419Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 311,
+        "timestamp": "2026-02-23T09:48:20.430Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 301,
+        "timestamp": "2026-02-23T09:48:30.442Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 317,
+        "timestamp": "2026-02-23T09:48:40.460Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 306,
+        "timestamp": "2026-02-23T09:48:50.452Z"
+      },
+      {
+        "status": "healthy",
+        "latency": 324,
+        "timestamp": "2026-02-23T09:49:00.478Z"
       }
     ],
     "lastCheck": {
       "status": "healthy",
-      "latency": 305,
-      "timestamp": "2026-02-23T09:13:57.328Z"
+      "latency": 324,
+      "timestamp": "2026-02-23T09:49:00.478Z"
     }
   },
   {
@@ -985,393 +1041,609 @@
     "history": [
       {
         "status": "down",
-        "latency": 11,
-        "timestamp": "2026-02-23T08:39:57.994Z",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:32:28.631Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:32:38.657Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 9,
+        "timestamp": "2026-02-23T09:32:48.665Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:32:58.682Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:33:08.707Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:33:18.712Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:33:28.729Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:33:38.739Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 3,
-        "timestamp": "2026-02-23T08:40:07.991Z",
+        "timestamp": "2026-02-23T09:33:48.750Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:33:58.753Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 1,
+        "timestamp": "2026-02-23T09:34:08.777Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:34:18.794Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:34:28.798Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:34:38.806Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:34:48.811Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:34:58.835Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:35:08.862Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:35:18.879Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 5,
+        "timestamp": "2026-02-23T09:35:28.898Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 4,
-        "timestamp": "2026-02-23T08:40:17.995Z",
+        "timestamp": "2026-02-23T09:35:38.917Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 3,
-        "timestamp": "2026-02-23T08:40:27.997Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:40:38.002Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 3,
-        "timestamp": "2026-02-23T08:40:48.005Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:40:58.008Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:41:08.010Z",
+        "timestamp": "2026-02-23T09:35:48.921Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 1,
-        "timestamp": "2026-02-23T08:41:18.012Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:41:28.015Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:41:38.019Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:41:48.022Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:41:58.026Z",
+        "timestamp": "2026-02-23T09:35:58.946Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 3,
-        "timestamp": "2026-02-23T08:42:08.028Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:42:18.031Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:42:28.035Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:42:38.036Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:42:48.039Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:42:58.044Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:43:08.044Z",
+        "timestamp": "2026-02-23T09:36:08.964Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 3,
-        "timestamp": "2026-02-23T08:43:18.048Z",
+        "timestamp": "2026-02-23T09:36:18.984Z",
         "error": ""
       },
       {
         "status": "down",
-        "latency": 1,
-        "timestamp": "2026-02-23T08:43:28.047Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 3,
-        "timestamp": "2026-02-23T08:43:38.051Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:43:48.052Z",
+        "latency": 5,
+        "timestamp": "2026-02-23T09:36:29.002Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 4,
-        "timestamp": "2026-02-23T08:43:58.058Z",
+        "timestamp": "2026-02-23T09:36:39.030Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 5,
+        "timestamp": "2026-02-23T09:36:49.038Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 2,
-        "timestamp": "2026-02-23T08:44:08.057Z",
+        "timestamp": "2026-02-23T09:36:59.049Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 2,
-        "timestamp": "2026-02-23T08:44:18.059Z",
+        "timestamp": "2026-02-23T09:37:09.063Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 2,
-        "timestamp": "2026-02-23T08:44:28.061Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:44:38.064Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:44:48.066Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:44:58.068Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:45:08.071Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 1,
-        "timestamp": "2026-02-23T08:45:18.071Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 1,
-        "timestamp": "2026-02-23T08:45:28.074Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:45:38.076Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:45:48.079Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:45:58.079Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:46:08.081Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:46:18.083Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:46:28.084Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 1,
-        "timestamp": "2026-02-23T08:46:38.085Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:46:48.087Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:46:58.090Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:47:08.091Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:47:18.091Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:47:28.093Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T08:47:38.095Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 1,
-        "timestamp": "2026-02-23T08:47:48.096Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 1413793,
-        "timestamp": "2026-02-23T09:11:31.889Z",
+        "timestamp": "2026-02-23T09:37:19.073Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 3,
-        "timestamp": "2026-02-23T09:11:37.423Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T09:11:47.424Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T09:11:57.427Z",
+        "timestamp": "2026-02-23T09:37:29.088Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 3,
-        "timestamp": "2026-02-23T09:12:07.428Z",
+        "timestamp": "2026-02-23T09:37:39.109Z",
         "error": ""
       },
       {
         "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T09:12:17.429Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T09:12:27.430Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T09:12:37.431Z",
+        "latency": 6,
+        "timestamp": "2026-02-23T09:37:49.117Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 3,
-        "timestamp": "2026-02-23T09:12:47.432Z",
+        "timestamp": "2026-02-23T09:37:59.135Z",
         "error": ""
       },
       {
         "status": "down",
-        "latency": 3,
-        "timestamp": "2026-02-23T09:12:57.435Z",
+        "latency": 0,
+        "timestamp": "2026-02-23T09:38:09.152Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 1,
-        "timestamp": "2026-02-23T09:13:07.433Z",
+        "timestamp": "2026-02-23T09:38:19.160Z",
         "error": ""
       },
       {
         "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T09:13:17.434Z",
-        "error": ""
-      },
-      {
-        "status": "down",
-        "latency": 2,
-        "timestamp": "2026-02-23T09:13:27.435Z",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:38:29.191Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 3,
-        "timestamp": "2026-02-23T09:13:37.438Z",
+        "timestamp": "2026-02-23T09:38:39.218Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 8,
+        "timestamp": "2026-02-23T09:38:49.232Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 2,
-        "timestamp": "2026-02-23T09:13:47.438Z",
+        "timestamp": "2026-02-23T09:38:59.245Z",
         "error": ""
       },
       {
         "status": "down",
         "latency": 2,
-        "timestamp": "2026-02-23T09:13:57.439Z",
+        "timestamp": "2026-02-23T09:39:09.267Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 5036,
+        "timestamp": "2026-02-23T09:39:24.310Z",
+        "error": "Connection timeout"
+      },
+      {
+        "status": "down",
+        "latency": 1,
+        "timestamp": "2026-02-23T09:39:29.293Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 7,
+        "timestamp": "2026-02-23T09:39:39.329Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:39:49.334Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 5,
+        "timestamp": "2026-02-23T09:39:59.356Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:40:09.377Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:40:19.375Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:40:29.396Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:40:39.432Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:40:49.437Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:40:59.435Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:41:09.441Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:41:19.446Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:41:29.469Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:41:39.491Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:41:49.503Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:41:59.529Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:42:09.529Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:42:19.540Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:42:29.559Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:42:39.586Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:42:49.593Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 6,
+        "timestamp": "2026-02-23T09:42:59.615Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:43:09.636Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:43:19.651Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 6,
+        "timestamp": "2026-02-23T09:43:29.711Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:43:39.706Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 14,
+        "timestamp": "2026-02-23T09:43:49.720Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:43:59.714Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:44:09.755Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:44:19.753Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:44:29.766Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:44:39.779Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:44:49.790Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:44:59.801Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:45:09.825Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:45:19.835Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:45:29.859Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:45:39.886Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:45:49.896Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:45:59.903Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:46:09.924Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:46:19.936Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:46:29.963Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:46:39.980Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:46:49.989Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:47:00.009Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:47:10.032Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:47:20.046Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:47:30.061Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:47:40.063Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 6,
+        "timestamp": "2026-02-23T09:47:50.071Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 2,
+        "timestamp": "2026-02-23T09:48:00.091Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:48:10.121Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 4,
+        "timestamp": "2026-02-23T09:48:20.130Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 5,
+        "timestamp": "2026-02-23T09:48:30.152Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 1,
+        "timestamp": "2026-02-23T09:48:40.152Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 7,
+        "timestamp": "2026-02-23T09:48:50.161Z",
+        "error": ""
+      },
+      {
+        "status": "down",
+        "latency": 3,
+        "timestamp": "2026-02-23T09:49:00.164Z",
         "error": ""
       }
     ],
     "lastCheck": {
       "status": "down",
-      "latency": 2,
-      "timestamp": "2026-02-23T09:13:57.439Z",
+      "latency": 3,
+      "timestamp": "2026-02-23T09:49:00.164Z",
       "error": ""
     }
   }
