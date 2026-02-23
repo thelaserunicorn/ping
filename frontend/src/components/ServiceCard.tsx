@@ -14,8 +14,24 @@ export function ServiceCard({ service, onEdit, onDelete }: ServiceCardProps) {
     return `${ms}ms`;
   };
 
+  const getUrl = () => {
+    if (service.url.includes(':') && !service.url.includes('://')) {
+      return `http://${service.url}`;
+    }
+    return service.url;
+  };
+
+  const handleCardClick = (e: React.MouseEvent) => {
+    const target = e.target as HTMLElement;
+    if (target.closest('button')) return;
+    window.open(getUrl(), '_blank');
+  };
+
   return (
-    <div className="bg-white dark:bg-[#1c1b18] rounded-xl border border-[#e8e6dc] dark:border-[#2c2b27] p-6 transition-all hover:border-[#d97757]/40 hover:shadow-lg hover:shadow-[#d97757]/5 h-full min-h-[200px] flex flex-col">
+    <div 
+      onClick={handleCardClick}
+      className="bg-white dark:bg-[#1c1b18] rounded-xl border border-[#e8e6dc] dark:border-[#2c2b27] p-6 transition-all hover:border-[#d97757]/40 hover:shadow-lg hover:shadow-[#d97757]/5 h-full min-h-[200px] flex flex-col cursor-pointer"
+    >
       <div className="flex items-start justify-between mb-4">
         <div className="flex-1 min-w-0 pr-2">
           <h3 className="text-base font-semibold text-[#141413] dark:text-[#faf9f5] truncate">
